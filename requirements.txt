@@ -8,4 +8,4 @@ scipy
 av
 scikit-image>=0.25.2
 flashpack==0.1.2
-
+streamlit
