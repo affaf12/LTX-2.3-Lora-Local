@@ -6,4 +6,6 @@ scipy
 av
 scikit-image>=0.25.2
 flashpack==0.1.2
-torchaudio==2.8.0
+torch==2.10.0
+torchvision==0.21.0
+torchaudio==2.10.0
